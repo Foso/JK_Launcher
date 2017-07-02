@@ -6,3 +6,4 @@ This is a very simple launcher app.
 
 
 ![alt text](https://raw.githubusercontent.com/Foso/JK_Launcher/blob/master/Homescreen.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
